@@ -54,3 +54,8 @@
 .counter__button:last-child {
 	margin-right: 0;
 }
+
+
+body {
+	background: white;
+}
